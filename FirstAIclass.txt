@@ -1,0 +1,9 @@
+i am so glad to attend the first AI CLASS and thanks to the saylani welfare trut.
+git config --global user.name="Mukhtiar84"
+git config --global user.email="mukhtiaralikmc@gmail.com"
+git add .
+git commit -m "I have created first text file"
+git push 
+
+
+

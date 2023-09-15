@@ -1,0 +1,7 @@
+i am face trouble while creating file in the vs code editor.
+git config --global user.name="Mukhtiar84"
+git config --global user.email="mukhtiaralikmc@gmail.com"
+
+git add .
+git commit -m "my second attempt"
+git push
