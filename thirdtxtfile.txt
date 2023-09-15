@@ -1,0 +1,6 @@
+third attempt
+git config --global user.name="Mukhtiar84"
+git config --global user.email="mukhtiaralikmc@gmail.com"
+git add .
+git commit -m "third attempt"
+git push
